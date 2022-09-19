@@ -1,12 +1,12 @@
-
 # [rsschool-cv](http://example.com/link)
-***
+***  
 #  Mikhail Konchyts
-***
+***  
 #### Contacts:
-***
+***  
 * Email: mixamtk@gmail.com 
 * Telegram, Discord: @mixamtk 
+
 #### About me
 ***  
 &nbsp; &nbsp; &nbsp; Now I have a main job that is not entirely related to software development. But there was always a desire to learn new things, as well as a desire to program and solve interesting problems. That is the main reason why I've decided to try something new (rs school). I hope my diligence and the courses will help me to obtain useful knowledge.
@@ -17,7 +17,7 @@ HTML&CSS
 Git
 Docker
 #### Code Example
-***
+***  
 ``` java
 public class StudentIdException extends  IllegalArgumentException {
     private final static String EX_HEAD = "Could not find student with ID {";
